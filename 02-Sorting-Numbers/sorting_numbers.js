@@ -9,7 +9,7 @@ print the numbers
 
 
 //insert your code below
-var num;
+/*var num;
 
 function listsGetSortCompare(type, direction) {
   var compareFuncs = {
@@ -26,4 +26,4 @@ function listsGetSortCompare(type, direction) {
 
 
 num = [5, 4, 3];
-window.alert(num.slice().sort(listsGetSortCompare("NUMERIC", 1)));
+window.alert(num.slice().sort(listsGetSortCompare("NUMERIC", 1)));*/

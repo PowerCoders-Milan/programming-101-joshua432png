@@ -1,5 +1,5 @@
 //Insert level 9 code below
-while (notDone()) {
+/*while (notDone()) {
     if (isPathForward()) {
       moveForward();
     } else {
@@ -11,4 +11,4 @@ while (notDone()) {
         }
       }
     }
-  }
+  }*/
